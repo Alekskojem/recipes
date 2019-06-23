@@ -5,7 +5,7 @@ export default class RecipeList extends Component {
         return (
             <React.Fragment>
             Hello From List
-            </React.Fragment>;
+            </React.Fragment>
         )
     }
 }
